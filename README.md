@@ -22,3 +22,6 @@
 ##### Contact Segmentation Dashboard – This contains dashboard with the segmented contacts
 ##### Report – This is the data set used for dashboard
 
+### Insurance Claim Analysis Tableau Dashboard -  This is the project where Insurance Claim data has been analysed.
+##### Insurance Claim Analysis - This includes detailed analysis report.
+
