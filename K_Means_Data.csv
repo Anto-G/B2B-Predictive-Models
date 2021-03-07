@@ -1,0 +1,423 @@
+﻿Account Id,Account Name,Type,Product,Event Visit,Revenue,website Visits,Community User,White Paper Downloads
+10001,ibm,Named,A,16,280750,14,Yes,Yes
+10002,tata consultancy services,Named,B,2,2454500,5,Yes,Yes
+10003,accenture,Named,C,2,2456000,2,Yes,Yes
+10004,us army,Named,D,8,774250,9,Yes,Yes
+10005,ey,Named,A,17,204250,17,Yes,Yes
+10006,hewlett-packard,Named,B,8,759750,12,Yes,Yes
+10007,cognizant technology solutions,Named,C,8,1169000,13,Yes,Yes
+10008,walmart,Named,D,3,1967250,3,Yes,Yes
+10009,microsoft,Named,A,10,1396250,12,Yes,Yes
+10010,at&t,Named,B,8,1147250,9,Yes,Yes
+10011,united states air force,Named,C,1,1857500,2,Yes,Yes
+10012,pwc,Named,D,12,838250,9,Yes,Yes
+10013,wells fargo,Named,A,3,1800250,5,Yes,Yes
+10014,infosys,Named,B,7,1194750,10,Yes,Yes
+10015,deloitte,Named,C,12,425500,19,Yes,Yes
+10016,citi,Named,D,13,521500,20,Yes,Yes
+10017,bank of america,Named,A,17,185250,16,Yes,Yes
+10018,jpmorgan chase & co.,Named,B,12,1382000,10,Yes,Yes
+10019,us navy,Named,C,10,1171500,11,Yes,Yes
+10020,amazon,Named,D,10,557250,19,Yes,Yes
+10021,apple,Named,A,8,1168250,11,Yes,Yes
+10022,siemens,Named,B,3,1789500,2,Yes,Yes
+10023,oracle,Named,C,1,2134250,3,Yes,Yes
+10024,nokia,Named,D,19,151750,18,Yes,Yes
+10025,education nationale,Named,A,14,154500,13,Yes,Yes
+10026,capgemini,Named,B,2,2498750,2,Yes,Yes
+10027,wipro technologies,Named,C,9,1161750,14,Yes,Yes
+10028,hsbc,Named,D,19,141250,17,Yes,Yes
+10029,google,Named,A,18,509500,15,Yes,Yes
+10030,united states postal service,Named,B,16,326000,19,Yes,Yes
+10031,mcdonald's corporation,Named,C,17,602750,17,Yes,Yes
+10032,ericsson,Named,D,9,1374250,12,Yes,Yes
+10033,nhs,Named,A,7,992500,10,Yes,Yes
+10034,boeing,Named,B,1,625000,1,Yes,Yes
+10035,vodafone,Named,C,16,156750,20,Yes,Yes
+10036,kaiser permanente,Named,D,15,566500,20,Yes,Yes
+10037,ford motor company,Named,A,2,1939000,3,Yes,Yes
+10038,intel corporation,Named,B,1,250000,7,Yes,Yes
+10039,department of veterans affairs,Named,C,4,2315250,2,Yes,Yes
+10040,cisco,Named,D,18,146000,16,Yes,Yes
+10041,general motors,Named,A,4,2349250,3,Yes,Yes
+10042,pepsico,Named,B,12,323500,19,Yes,Yes
+10043,target,Named,C,16,316250,14,Yes,Yes
+10044,shell,Named,D,16,248000,19,Yes,Yes
+10045,hcl technologies,Named,A,4,2085500,3,Yes,Yes
+10046,ups,Named,B,10,379250,13,Yes,Yes
+10047,pfizer,Named,C,4,2009000,3,Yes,Yes
+10048,unilever,Named,D,15,143000,14,Yes,Yes
+10050,unitedhealth group,Named,B,10,252750,19,Yes,Yes
+10051,huawei technologies,Named,C,11,836250,13,Yes,Yes
+10052,dell,Named,D,3,2285750,1,Yes,Yes
+10053,gsk,Named,A,12,825000,11,Yes,Yes
+10054,honeywell,Named,B,18,604250,14,Yes,Yes
+10055,sap,Named,C,1,2387750,1,Yes,Yes
+10056,schlumberger,Named,D,5,1779750,3,Yes,Yes
+10057,lockheed martin,Named,A,17,377750,19,Yes,Yes
+10058,"ayatama energi, trisco nusantara",Named,B,13,285500,16,Yes,Yes
+10059,abb,Named,C,2,1762500,1,Yes,Yes
+10060,american center of krasnodar,Named,D,4,2435500,3,Yes,Yes
+10061,starbucks,Named,A,10,228500,15,Yes,Yes
+10062,promobroker agente de seguros y de fianzas s a de c v,Named,B,18,515000,17,Yes,Yes
+10063,morgan stanley,Named,C,14,387750,18,Yes,Yes
+10064,the home depot,Named,D,19,258000,15,Yes,Yes
+10065,independiente,Named,A,2,2303750,1,Yes,Yes
+10066,novartis,Named,B,11,1114750,14,Yes,Yes
+10067,johnson & johnson,Named,C,12,783750,13,Yes,Yes
+10068,bp,Named,D,14,481000,18,Yes,Yes
+10069,schneider electric,Named,A,16,510500,16,Yes,Yes
+10070,state farm,Named,B,11,465000,17,Yes,Yes
+10072,dhl,Named,D,1,2223250,2,Yes,Yes
+10073,my home,Named,A,9,1426750,9,Yes,Yes
+10074,td,Named,B,3,1987000,2,Yes,Yes
+10075,ge,Named,C,15,603750,18,Yes,Yes
+10076,philips,Named,D,2,1757500,8,Yes,Yes
+10077,ubs,Named,A,1,2143250,2,Yes,Yes
+10078,procter & gamble,Named,B,9,949750,11,Yes,Yes
+10079,walgreens,Named,C,4,2347750,1,Yes,Yes
+10080,"keller williams realty, inc.",Named,D,8,1142000,11,Yes,Yes
+10081,"lowe's companies, inc.",Named,A,1,2204000,1,Yes,Yes
+10083,united states marine corps,Named,C,11,823000,10,Yes,Yes
+10084,dell emc,Named,D,5,1883750,5,Yes,Yes
+10085,tech mahindra,Named,A,19,453500,19,Yes,Yes
+10086,verizon wireless,Named,B,5,2143000,5,Yes,Yes
+10087,sanofi,Named,C,4,2229000,5,Yes,Yes
+10088,bnp paribas,Named,D,5,2467750,5,Yes,Yes
+10089,sodexo,Named,A,12,1500000,3,Yes,Yes
+10090,deutsche bank,Named,B,11,793000,11,Yes,Yes
+10091,tencent,Named,C,18,285750,18,Yes,Yes
+10092,j.p. morgan,Named,D,9,828750,12,Yes,Yes
+10093,verizon,Named,A,3,2403500,3,Yes,Yes
+10095,kpmg,Named,C,18,353500,16,Yes,Yes
+10096,orange,Named,D,2,2439000,4,Yes,Yes
+10097,linkedin,Named,A,16,352250,17,Yes,Yes
+10098,barclays,Named,B,4,2152750,3,Yes,Yes
+10099,facebook,Named,C,11,801000,13,Yes,Yes
+10100,northrop grumman corporation,Named,D,4,2121750,5,Yes,Yes
+10101,fca fiat chrysler automobiles,Named,A,10,1028750,11,Yes,Yes
+10102,adp,Named,B,18,526000,16,Yes,Yes
+10103,medtronic,Named,C,19,154250,18,Yes,Yes
+10104,abbott,Named,D,4,2439000,1,Yes,Yes
+10105,chevron,Named,A,8,932750,8,Yes,Yes
+10106,roche,Named,B,12,166000,16,Yes,Yes
+10107,american express,Named,C,3,2189250,4,Yes,Yes
+10108,samsung electronics,Named,D,5,2411500,5,Yes,Yes
+10109,macy's,Named,A,5,2388250,5,Yes,Yes
+10110,thomson reuters,Named,B,17,154250,16,Yes,Yes
+10112,avon,Named,D,4,1794750,2,Yes,Yes
+10113,cgi,Named,A,5,2437000,2,Yes,Yes
+10114,cvs health,Named,B,9,1452500,9,Yes,Yes
+10115,halliburton,Named,C,2,2181250,5,Yes,Yes
+10116,atos,Named,D,8,1289500,9,Yes,Yes
+10117,pcs informatica,Named,A,3,2394500,4,Yes,Yes
+10118,ge healthcare,Named,B,5,2236250,2,Yes,Yes
+10119,csc,Named,C,7,780000,11,Yes,Yes
+10120,merck,Named,D,3,1750000,4,Yes,Yes
+10121,Airtel,Named,A,4,1825500,2,Yes,Yes
+10122,banco santander,Named,B,1,2500000,0,Yes,Yes
+10123,scotiabank,Named,C,16,145750,17,Yes,Yes
+10124,dxc technology,Named,D,16,577750,13,Yes,Yes
+10125,johnson controls,Named,A,2,2125250,1,Yes,Yes
+10126,posteamos.com,Named,B,10,137250,17,Yes,Yes
+10127,allstate,Named,C,4,1962750,4,Yes,Yes
+10128,petrobras,Named,D,2,2442500,2,Yes,Yes
+10129,credit suisse,Named,A,13,451750,14,Yes,Yes
+10131,marriott international,Named,C,9,1321000,8,Yes,Yes
+10132,axa,Named,D,3,2274750,5,Yes,Yes
+10133,3m health care,Named,A,19,160750,15,Yes,Yes
+10134,standard chartered bank,Named,B,14,353500,18,Yes,Yes
+10135,xerox,Named,C,10,773500,11,Yes,Yes
+10136,cbre,Named,D,9,1367250,14,Yes,Yes
+10137,nyc department of education,Named,A,7,1091500,10,Yes,Yes
+10138,goldman sachs,Named,B,1,2386250,4,Yes,Yes
+10139,fidelity investments,Named,C,12,1185750,11,Yes,Yes
+10140,icici bank,Named,D,10,1069750,14,Yes,Yes
+10141,exxonmobil,Named,A,10,217000,15,Yes,Yes
+10142,t-mobile,Named,B,18,177500,16,Yes,Yes
+10143,aon,Named,C,19,414000,20,Yes,Yes
+10144,royal bank of scotland,Named,D,3,2300250,4,Yes,Yes
+10145,astrazeneca,Named,A,1,1765000,4,Yes,Yes
+10146,nike,Named,B,11,219250,16,Yes,Yes
+10147,basf,Named,C,1,1625000,4,Yes,Yes
+10148,hdfc bank,Named,D,5,1994000,3,Yes,Yes
+10149,best buy,Named,A,4,2354750,4,Yes,Yes
+10150,american airlines,Named,B,3,2326500,3,Yes,Yes
+10151,baker hughes,Named,C,14,440250,18,Yes,Yes
+10152,the coca-cola company,Named,D,4,1764250,3,Yes,Yes
+10153,genpact,Named,A,2,2082000,2,Yes,Yes
+10154,jll,Named,B,3,2053500,3,Yes,Yes
+10155,rbc,Named,C,7,881500,11,Yes,Yes
+10156,u.s. bank,Named,D,18,537750,17,Yes,Yes
+10157,larsen & toubro,Named,A,1,2244750,2,Yes,Yes
+10158,continental,Named,B,19,342750,13,Yes,Yes
+10159,pnc,Named,C,15,154250,19,Yes,Yes
+10160,sprint,Named,D,11,829250,12,Yes,Yes
+10161,saudi aramco,Named,A,10,1487250,10,Yes,Yes
+10162,g4s,Named,B,15,448000,18,Yes,Yes
+10163,airbus,Named,C,1,1000000,8,Yes,Yes
+10164,capital one,Named,D,4,1787750,5,Yes,Yes
+10165,delta air lines,Named,A,11,1180000,11,Yes,Yes
+10166,carrefour,Named,B,5,1892000,3,Yes,Yes
+10167,ninguna,Named,C,7,1075250,14,Yes,Yes
+10168,merrill lynch,Named,D,16,506250,19,Yes,Yes
+10170,bt,Named,B,12,1457500,10,Yes,Yes
+10171,h&m,Named,C,8,1090500,13,Yes,Yes
+10172,anz,Named,D,4,2303500,1,Yes,Yes
+10173,farmers insurance,Named,A,10,1149750,13,Yes,Yes
+10174,aecom,Named,B,3,2411000,4,Yes,Yes
+10175,united states department of defense,Named,C,10,1472500,9,Yes,Yes
+10176,metlife,Named,D,2,2442000,3,Yes,Yes
+10177,total,Named,A,3,2409750,4,Yes,Yes
+10178,ikea group,Named,B,5,2277500,2,Yes,Yes
+10179,cargill,Named,C,5,2301250,1,Yes,Yes
+10180,bae systems,Named,D,12,537750,19,Yes,Yes
+10181,united airlines,Named,A,2,1992000,4,Yes,Yes
+10182,lavoratore indipendente,Named,B,10,1226250,13,Yes,Yes
+10183,mary kay inc.,Named,C,3,2479250,5,Yes,Yes
+10184,liberty mutual insurance,Named,D,7,1072500,14,Yes,Yes
+10185,comcast,Named,A,7,858500,13,Yes,Yes
+10186,caterpillar inc.,Named,B,11,188250,19,Yes,Yes
+10187,jacobs,Named,C,13,399750,15,Yes,Yes
+10188,bny mellon,Named,D,1,1845750,1,Yes,Yes
+10189,raytheon,Named,A,5,2110500,4,Yes,Yes
+10191,eli lilly and company,Named,C,10,592250,19,Yes,Yes
+10192,hp,Named,D,12,954000,11,Yes,Yes
+10193,eskom,Named,A,9,1476750,8,Yes,Yes
+10194,school,Named,B,9,1042250,11,Yes,Yes
+10195,uber,Named,C,12,780250,13,Yes,Yes
+10196,lloyds banking group,Named,D,2,2370750,3,Yes,Yes
+10197,kroger,Named,A,10,894750,8,Yes,Yes
+10198,thermo fisher scientific,Named,B,11,1405250,8,Yes,Yes
+10199,renault,Named,C,8,1260500,14,Yes,Yes
+10200,nhs trust,Named,D,3,1866000,3,Yes,Yes
+10201,willis towers watson,Named,A,13,215750,15,Yes,Yes
+10202,hospital universitario josep trueta,Named,B,5,2197000,2,Yes,Yes
+10203,aig,Named,C,10,1036000,8,Yes,Yes
+10204,state bank of india,Named,D,16,148000,16,Yes,Yes
+10205,fedex express,Named,B,10,1105250,10,Yes,Yes
+10206,novo nordisk,Named,C,3,2250500,2,Yes,Yes
+10207,mynet,Named,D,3,2481000,4,Yes,Yes
+10208,vale,Named,C,10,1320500,10,Yes,Yes
+10210,h&r block,Non Named,B,18,200750,13,Yes,Yes
+10211,sncf,Non Named,C,12,850750,9,Yes,Yes
+10212,social security administration,Non Named,D,16,402000,20,Yes,Yes
+10213,"bright futures, a college and career management company",Non Named,B,16,531750,20,Yes,Yes
+10214,costco wholesale,Non Named,C,18,299750,18,Yes,Yes
+10215,thales,Non Named,D,12,1167500,12,Yes,Yes
+10216,convergys,Non Named,C,3,1869750,5,Yes,Yes
+10217,ministry of education,Non Named,D,17,318250,18,Yes,Yes
+10218,tesco plc,Non Named,A,7,796750,14,Yes,Yes
+10219,iqvia,Non Named,B,13,260500,18,Yes,Yes
+10220,salesforce,Non Named,C,3,1924000,5,Yes,Yes
+10221,edf,Non Named,D,4,2046000,4,Yes,Yes
+10222,prefeitura municipal,Non Named,A,2,1792500,6,Yes,Yes
+10223,the dow chemical company,Non Named,B,11,1142500,9,Yes,Yes
+10224,forza silicon,Non Named,C,8,1289500,13,Yes,Yes
+10225,hilton worldwide,Non Named,D,18,234000,20,Yes,Yes
+10226,los angeles unified school district,Non Named,A,18,371750,20,Yes,Yes
+10227,army national guard,Non Named,B,4,2224500,1,Yes,Yes
+10228,nordstrom,Non Named,C,4,1917500,4,Yes,Yes
+10229,lifespan,Non Named,D,12,1086000,14,Yes,Yes
+10230,fedex,Non Named,A,1,2143500,7,Yes,Yes
+10231,edward jones,Non Named,B,16,307750,13,Yes,Yes
+10232,particular,Non Named,C,2,2213750,4,Yes,Yes
+10233,travelers,Non Named,D,1,2282750,9,Yes,Yes
+10234,fresher,Non Named,A,9,1396250,12,Yes,Yes
+10235,boehringer ingelheim,Non Named,B,4,2131000,5,Yes,Yes
+10236,state street,Non Named,C,2,1960750,2,Yes,Yes
+10237,private,Non Named,D,5,1790750,1,Yes,Yes
+10238,the walt disney company,Non Named,A,8,855500,13,Yes,Yes
+10239,nielsen,Non Named,B,18,375750,14,Yes,Yes
+10240,emirates,Non Named,C,16,549000,20,Yes,Yes
+10241,lg electronics,Non Named,D,14,605250,19,Yes,Yes
+10242,bombardier,Non Named,A,12,547250,20,Yes,Yes
+10243,herbalife,Non Named,B,11,1443000,14,Yes,Yes
+10244,northwestern mutual,Non Named,C,17,469750,13,Yes,Yes
+10245,valeo,Non Named,D,5,2248000,1,Yes,Yes
+10246,eaton,Non Named,A,12,322250,16,Yes,Yes
+10247,aflac,Non Named,B,1,2266500,1,Yes,Yes
+10248,united nations,Non Named,C,17,570750,16,No,Yes
+10249,flextronics,Non Named,D,2,2388500,2,No,Yes
+10250,standard bank group,Non Named,A,13,150000,20,No,Yes
+10251,subway,Non Named,B,2,1916750,2,No,Yes
+10252,mayo clinic,Non Named,C,10,1116250,13,No,Yes
+10253,booz allen hamilton,Non Named,D,9,1033500,12,No,Yes
+10254,allianz,Non Named,A,5,2295500,5,No,Yes
+10255,telstra,Non Named,B,1,2217750,2,No,Yes
+10256,qualcomm,Non Named,C,2,500000,2,No,Yes
+10257,john deere,Non Named,D,4,2236500,3,No,Yes
+10258,aetna,Non Named,A,18,587750,18,No,Yes
+10259,enterprise rent-a-car,Non Named,B,7,960000,8,No,Yes
+10260,bristol-myers squibb,Non Named,C,15,468000,17,No,Yes
+10261,alberta health services,Non Named,D,4,1901000,6,No,Yes
+10262,us department of homeland security,Non Named,A,14,389000,18,No,Yes
+10263,commonwealth bank,Non Named,B,15,361500,14,No,Yes
+10264,new york life insurance company,Non Named,C,5,2314250,1,No,Yes
+10265,siemens healthcare,Non Named,D,11,759250,14,No,Yes
+10266,cibc,Non Named,A,12,513250,15,No,Yes
+10267,adidas,Non Named,B,9,959750,9,No,Yes
+10268,weatherford,Non Named,C,4,2093500,4,No,Yes
+10269,fluor corporation,Non Named,D,3,1819500,2,No,Yes
+10270,pemex,Non Named,A,13,420250,15,No,Yes
+10271,sopra steria,Non Named,B,5,2155500,4,No,Yes
+10272,hca,Non Named,C,2,2252500,2,No,Yes
+10273,bmw group,Non Named,D,4,1812750,1,No,Yes
+10274,dupont,Non Named,A,5,2257250,3,No,Yes
+10275,nessuna azienda,Non Named,B,10,1070500,12,No,Yes
+10276,sears holdings corporation,Non Named,C,5,2105750,2,No,Yes
+10277,cleveland clinic,Non Named,D,11,625000,2,No,Yes
+10278,lafargeholcim,Non Named,A,3,2303000,4,No,Yes
+10279,kohl's department stores,Non Named,B,15,559500,19,No,Yes
+10280,humana,Non Named,C,14,565000,15,No,Yes
+10281,primerica,Non Named,D,5,2462750,5,No,Yes
+10282,axis bank,Non Named,A,8,762250,13,No,Yes
+10283,coldwell banker residential brokerage,Non Named,B,3,2068500,3,No,Yes
+10284,bayer,Non Named,C,3,2444500,3,No,Yes
+10285,fujitsu,Non Named,D,2,2165500,5,No,Yes
+10286,faa,Non Named,A,11,591250,19,No,Yes
+10287,bbva,Non Named,B,10,363750,17,No,Yes
+10288,university of michigan,Non Named,C,2,1997750,3,No,Yes
+10289,banco do brasil,Non Named,D,4,2418500,8,No,Yes
+10290,fis,Non Named,A,19,404000,14,No,Yes
+10291,foxconn,Non Named,B,2,1952500,5,No,Yes
+10293,ge power,Non Named,D,3,2278500,1,No,Yes
+10294,epam systems,Non Named,A,2,1831750,3,No,Yes
+10295,pearson,Non Named,B,18,597250,13,No,Yes
+10296,national australia bank,Non Named,C,4,1794750,5,No,Yes
+10297,reliance,Non Named,D,1,1967250,2,No,Yes
+10298,jcpenney,Non Named,A,8,961750,12,No,Yes
+10299,imss,Non Named,B,11,937000,13,No,Yes
+10300,bradesco,Non Named,C,3,2400250,2,No,Yes
+10301,boston scientific,Non Named,D,9,903000,13,No,Yes
+10302,stay at home mom,Non Named,A,3,2442000,5,No,Yes
+10303,lenovo,Non Named,B,2,2401750,4,No,Yes
+10304,nationwide insurance,Non Named,C,10,1100000,12,No,Yes
+10305,nissan motor corporation,Non Named,D,3,1778000,3,No,No
+10306,amazon web services,Non Named,A,3,2132000,5,No,No
+10307,philip morris international,Non Named,B,4,1992250,4,No,No
+10308,alstom,Non Named,C,11,1499000,11,No,No
+10309,cummins inc.,Non Named,D,18,210750,17,No,No
+10310,centurylink,Non Named,A,19,523750,19,No,No
+10312,european commission,Non Named,C,1,2394750,1,No,No
+10313,amgen,Non Named,D,9,1360500,12,No,No
+10314,abn amro bank n.v.,Non Named,A,2,2219000,5,No,No
+10315,cvs pharmacy,Non Named,B,8,1431250,13,No,No
+10316,trw,Non Named,C,18,574000,13,No,No
+10317,ncr corporation,Non Named,D,8,787750,14,No,No
+10318,akzonobel,Non Named,A,1,2085750,1,No,No
+10319,amdocs,Non Named,B,4,2369000,3,No,No
+10320,abbvie,Non Named,C,10,783500,13,No,No
+10321,arcelormittal,Non Named,D,11,1446000,13,No,No
+10322,free lance,Non Named,A,10,201000,17,No,No
+10323,jaguar land rover,Non Named,B,12,1130000,9,No,No
+10325,sgs,Non Named,D,8,987500,10,No,No
+10326,wipro infotech,Non Named,A,3,1856500,1,No,No
+10327,aramark,Non Named,B,5,1833000,4,No,No
+10328,"ministero istruzione, universita' e ricerca",Non Named,C,3,2015250,4,No,No
+10329,samsung,Non Named,D,1,2441500,5,No,No
+10330,kuehne + nagel,Non Named,A,2,2390000,1,No,No
+10331,cerner corporation,Non Named,B,5,2223500,4,No,No
+10332,mckinsey & company,Non Named,C,8,1466250,13,No,No
+10333,kimberly-clark,Non Named,D,9,1269500,8,No,No
+10334,caixa economica federal,Non Named,A,2,1886750,5,No,No
+10335,"biocolloids fate and transport in environmental systems, network biomet",Non Named,B,3,2281750,4,No,No
+10336,agilent technologies,Non Named,C,8,1268250,8,No,No
+10337,upwork,Non Named,D,11,393750,18,No,No
+10338,whole foods market,Non Named,A,8,1047750,5,No,No
+10339,comcast cable,Non Named,B,6,1103000,7,No,No
+10340,indra,Non Named,C,8,1046500,8,No,No
+10341,southwest airlines,Non Named,D,8,1052250,10,No,No
+10342,mid managing international diffusion,Non Named,A,6,1004000,8,No,No
+10343,stryker,Non Named,B,6,1103250,10,No,No
+10344,international mission of mercy (imm),Non Named,C,6,1111750,6,No,No
+10345,british american tobacco,Non Named,D,6,1064500,5,No,No
+10346,nordea,Non Named,A,6,1159000,8,No,No
+10347,bank of america merrill lynch,Non Named,B,7,1142250,10,No,No
+10348,publix super markets,Non Named,C,8,1232500,10,No,No
+10349,own businees,Non Named,D,7,1225750,5,No,No
+10350,youtube,Non Named,A,7,1115500,5,No,No
+10351,u.s. department of state,Non Named,B,8,1036750,8,No,No
+10352,"""cecaci""  centro de capacitacion comercial e industrial",Non Named,C,6,1229000,10,No,No
+10353,mars,Non Named,D,8,1152000,7,No,No
+10354,lic,Non Named,A,8,1229500,6,No,No
+10355,sabic,Non Named,B,7,1172500,6,No,No
+10356,bsnl,Non Named,C,7,1128000,8,No,No
+10357,danone,Non Named,D,8,1127000,5,No,No
+10358,usaa,Non Named,A,6,1217250,5,No,No
+10359,chicago public schools,Non Named,B,6,1207250,7,No,No
+10360,le groupe la poste,Non Named,C,6,1008000,10,No,No
+10361,bmo financial group,Non Named,D,8,1060000,9,No,No
+10362,fresenius medical care,Non Named,A,8,1199750,10,No,No
+10363,cushman & wakefield,Non Named,B,6,1077750,7,No,No
+10364,ing,Non Named,C,6,1076000,8,No,No
+10365,rolls-royce,Non Named,D,8,1050750,5,No,No
+10366,cigna,Non Named,A,7,1192250,10,No,No
+10367,ymca,Non Named,B,7,1051000,7,No,No
+10368,prudential financial,Non Named,C,6,1003750,5,No,No
+10369,saipem,Non Named,D,6,1014250,9,No,No
+10370,bosch,Non Named,A,8,1220500,5,No,No
+10371,rodan + fields,Non Named,B,7,1056750,6,No,No
+10372,rr donnelley,Non Named,C,7,1161750,7,No,No
+10373,vmware,Non Named,D,8,1129250,7,No,No
+10374,university of washington,Non Named,A,8,1086250,10,No,No
+10375,penn state university,Non Named,B,8,1015500,9,No,No
+10376,texas instruments,Non Named,C,6,1245750,7,No,No
+10377,michelin,Non Named,D,8,1223750,6,No,No
+10378,baxter international inc.,Non Named,A,8,1071750,6,No,No
+10379,sakri it solutions pvt ltd,Non Named,B,7,1058250,7,No,No
+10380,rabobank,Non Named,C,7,1158000,10,No,No
+10381,cardinal health,Non Named,D,7,1055250,9,No,No
+10382,amway,Non Named,A,6,1073000,10,No,No
+10383,adecco,Non Named,B,8,1112000,8,No,No
+10384,bb&t,Non Named,C,6,1019500,8,No,No
+10385,saic,Non Named,D,7,1222250,9,No,No
+10386,bureau veritas,Non Named,A,8,1193500,5,No,No
+10387,faurecia,Non Named,B,6,1140250,5,No,No
+10388,sas,Non Named,C,6,1104750,10,No,No
+10389,indite technologies,Non Named,D,6,1058000,8,No,No
+10390,mahindra satyam,Non Named,A,7,1101750,10,No,No
+10391,coldwell banker,Non Named,B,7,1125750,7,No,No
+10392,orange business services,Non Named,C,8,1048750,7,No,No
+10393,monsanto company,Non Named,D,8,1019750,9,No,No
+10394,manpowergroup,Non Named,A,8,1188250,6,No,No
+10395,american red cross,Non Named,B,7,1051750,6,No,No
+10396,kelly services,Non Named,C,8,1207500,8,No,No
+10397,time warner cable,Non Named,D,8,1191500,5,No,No
+10398,nedbank,Non Named,A,8,1129000,9,No,No
+10399,adobe,Non Named,B,7,1237250,5,No,No
+10400,university of florida,Non Named,C,7,1019750,8,No,No
+10401,bell,Non Named,D,8,1046000,6,No,No
+10402,ecolab,Non Named,A,6,1169500,7,No,No
+10403,bhp billiton,Non Named,B,8,1184500,5,No,No
+10404,university of minnesota,Non Named,C,7,1192500,5,No,No
+10405,absa,Non Named,D,7,1125250,10,No,No
+10406,bbc,Non Named,A,8,1053500,6,No,No
+10407,government of maharashtra,Non Named,B,6,1222500,10,No,No
+10408,"ameriprise financial services, inc.",Non Named,C,6,1153500,8,No,No
+10409,unicredit,Non Named,D,8,1097750,9,No,No
+10410,mphasis,Non Named,A,7,1051000,8,No,No
+10411,randstad,Non Named,B,8,1130500,10,No,No
+10412,progressive insurance,Non Named,C,8,1049750,9,No,No
+10413,the ohio state university,Non Named,D,6,1165250,7,No,No
+10414,"anthem, inc.",Non Named,A,8,1177500,6,No,No
+10415,safeway,Non Named,B,6,1028000,6,No,No
+10416,teleperformance,Non Named,C,8,1039750,6,No,No
+10417,worleyparsons,Non Named,D,6,1110250,9,No,No
+10418,korea facilitators association,Non Named,A,8,1029250,10,No,No
+10419,british airways,Non Named,B,7,1163250,7,No,No
+10420,national oilwell varco,Non Named,C,6,1176000,10,No,No
+10421,aviva,Non Named,D,7,1062500,5,No,No
+10422,syngenta,Non Named,B,6,1069500,10,No,No
+10423,magna international,Non Named,C,7,1039500,6,No,No
+10424,walt disney world,Non Named,D,7,1141250,8,No,No
+10425,auchan,Non Named,C,7,1063000,6,No,No
+10426,staples,Non Named,D,8,1182750,7,No,No
+10427,no-company,Non Named,B,7,1022750,5,No,No
+10428,the salvation army,Non Named,C,7,1093750,7,No,No
+10429,inditex,Non Named,D,8,1218000,7,No,No
+10430,barclays investment bank,Non Named,B,8,1179000,5,No,No
+10431,toyota,Non Named,C,8,1030000,9,No,No
+10432,sherwin williams,Non Named,D,7,1150500,6,No,No
+10433,arcadis,Non Named,C,8,1033250,6,No,No
+10434,motorola,Non Named,D,8,1048500,10,No,No
