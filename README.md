@@ -17,3 +17,8 @@
 ##### Forecasting Model.ipynb – This contains the python code
 ##### Tickets data – This is the data used for analysis
 ##### FinalData – This is the forecasted data
+
+### Contact Segementation Tableau Dashboard -  This is the project where contacts and campaigns responses have been segmented to help the field marketing team.
+##### Contact Segmentation Dashboard – This contains dashboard with the segmented contacts
+##### Report – This is the data set used for dashboard
+
